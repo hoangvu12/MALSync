@@ -154,10 +154,19 @@
     "Gogoanime": [
       "https://gogoanime.cl/*"
     ],
+    "Kaguya": [
+      "https://kaguya.app/*"
+    ],
     "nineAnime": [
       "https://9animehq.to/watch/*",
       "https://9animehq.to/watch2gether/*"
     ],
-    "iframe": []
+    "iframe": [
+      "https://playtaku.online/embedplus*",
+      "https://playtaku.online/streaming.php?*",
+      "https://playtaku.online/load.php?*",
+      "https://playtaku.online/loadserver.php?*",
+      "https://availedsmallest.com/e/*"
+    ]
   }
 }

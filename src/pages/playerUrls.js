@@ -423,6 +423,10 @@ module.exports = {
       '*://*.anihdplay.com/streaming.php?*',
       '*://*.anihdplay.com/load.php?*',
       '*://*.anihdplay.com/loadserver.php?*',
+      '*://*.playtaku.online/embedplus*',
+      '*://*.playtaku.online/streaming.php?*',
+      '*://*.playtaku.online/load.php?*',
+      '*://*.playtaku.online/loadserver.php?*',
       // auto-gogostream-replace-dont-remove
     ],
   },
@@ -608,6 +612,7 @@ module.exports = {
       '*://antecoxalbobbing1010.com/e/*',
       '*://matriculant401merited.com/e/*',
       '*://scatch176duplicities.com/e/*',
+      '*://availedsmallest.com/e/*',
       // auto-voe-replace-dont-remove
     ],
   },
